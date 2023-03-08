@@ -2,6 +2,7 @@ import os
 
 from Node import Node
 
+
 def tri_frequence(liste):
     """
     Cette fonction retourne une liste triée en fonction du nombre d'apparences de
